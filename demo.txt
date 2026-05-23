@@ -1,0 +1,25 @@
+git init
+git clone <repo-url>
+git status
+git add .
+git commit -m "message"
+git branch
+git checkout -b <new-branch>
+git switch <branch>
+git pull origin <branch>
+git push origin <branch>
+git log --oneline --graph --all
+git diff
+git stash
+git stash pop
+git remote -v
+git fetch --all
+git merge <branch>
+git rebase <branch>
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+git restore <file>
+git rm <file>
+git mv <old> <new>
+git tag
+git tag <tag-name>
