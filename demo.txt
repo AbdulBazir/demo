@@ -23,3 +23,7 @@ git rm <file>
 git mv <old> <new>
 git tag
 git tag <tag-name>
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --global core.editor "code --wait"
+$CURSOR$
